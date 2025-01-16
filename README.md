@@ -34,7 +34,7 @@ Social Features:
 
 ## Configuration
 
-Create a config.json file in your home directory:
+Create a config.json file in your home directory: make sure to do ```json
 
 ```json
 {
