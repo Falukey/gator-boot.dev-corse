@@ -34,7 +34,11 @@ Social Features:
 
 ## Configuration
 
+<<<<<<< HEAD
 Create a config.json file in your home directory: make sure to do ```json
+=======
+Create a config.json file in your home directory you will need  ```json:
+>>>>>>> c5c40143b2524fe69a67cea24aa2520a42e84757
 
 ```json
 {
@@ -51,4 +55,8 @@ Create a config.json file in your home directory: make sure to do ```json
 4. Register an account: `gator register`
 5. Start following feeds:
    - Add your first feed: `gator addfeed <url>`
+<<<<<<< HEAD
    - View your feeds: `gator feeds`
+=======
+   - View your feeds: `gator feeds`
+>>>>>>> c5c40143b2524fe69a67cea24aa2520a42e84757
